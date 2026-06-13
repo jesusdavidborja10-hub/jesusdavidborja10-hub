@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jesús David Borja Díaz
-### Desarrollador Web · Cartagena de Indias, Colombia 🇨🇴
+### Desarrollador Web · Cartagena de Indias, Colombia 
 
 *"Aprendo construyendo cosas reales."*
 
