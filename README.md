@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jesús David Borja Díaz
-### Desarrollador Web · Cartagena de Indias, Colombia 🇨🇴
+### Desarrollador Web · Cartagena de Indias, Colombia
 
 *"Aprendo construyendo cosas reales."*
 
@@ -82,7 +82,7 @@ Incluye sistema de citas en tiempo real, login con Google, reseñas con estrella
 
 <div align="center">
 
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573105165342)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/573015751907)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jesusdavidborja10-hub)
 
 </div>
