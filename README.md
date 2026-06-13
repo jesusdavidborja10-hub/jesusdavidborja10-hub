@@ -79,6 +79,6 @@ Incluye sistema de citas en tiempo real, login con Google, reseñas con estrella
 
 <div align="center">
 
-*Construido con 💻 y mucho café desde Cartagena de Indias 🇨🇴*
+*Construido con 💻 y mucho café desde Cartagena de Indias*
 
 </div>
