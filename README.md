@@ -1,5 +1,5 @@
 Hola, soy Jesús David Borja Díaz
-Desarrollador web de Cartagena de Indias, Colombia. Tengo entre 18 y 22 años y aprendí a programar trabajando en proyectos reales — sin bootcamp, sin universidad, solo práctica, curiosidad y ganas de construir cosas que funcionen.
+Desarrollador web de Cartagena de Indias, Colombia. Tengo entre 18 años y aprendí a programar trabajando en proyectos reales — sin bootcamp, sin universidad, solo práctica, curiosidad y ganas de construir cosas que funcionen.
 Me apasiona crear aplicaciones web completas desde cero, desde el diseño hasta el backend. Aprendo mejor cuando tengo un problema real que resolver, y cada proyecto me enseña algo nuevo.
 Actualmente trabajo con Python, Flask, PostgreSQL, JavaScript y CSS. Me gusta el diseño cuidado y las experiencias que se sienten profesionales.
 
