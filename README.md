@@ -10,4 +10,3 @@ Una de mis primeras aplicaciones web completas. La construí para un negocio rea
 Incluye sistema de citas en tiempo real, login con Google, reseñas con estrellas, tarjeta de fidelidad con sellos digitales y clave secreta, galería de trabajos con carrusel, diseño oscuro tipo spa de lujo con animaciones, y todo desplegado en producción con Vercel y Supabase.
 Lo que más aprendí: conectar un frontend bonito con un backend real, manejar sesiones y autenticación, trabajar con bases de datos en la nube, y desplegar en producción resolviendo los problemas que solo aparecen cuando algo está vivo en internet.
 Stack: Python · Flask · PostgreSQL · Supabase · Vercel · JavaScript · Google OAuth
-🔗 cami-cosmetologia.vercel.app
