@@ -1,7 +1,7 @@
 <div align="center">
 
 # Jesús David Borja Díaz
-### Desarrollador Web · Cartagena de Indias, Colombia
+### Desarrollador Web · Cartagena de Indias, Colombia 🇨🇴
 
 *"Aprendo construyendo cosas reales."*
 
@@ -63,18 +63,6 @@ Incluye sistema de citas en tiempo real, login con Google, reseñas con estrella
 
 [![Ver en vivo](https://img.shields.io/badge/🌐_Ver_en_vivo-E8829A?style=for-the-badge)](https://cami-cosmetologia.vercel.app)
 [![Ver código](https://img.shields.io/badge/💻_Ver_código-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jesusdavidborja10-hub/cami-cosmetologia)
-
----
-
-## 📊 Estadísticas
-
-<div align="center">
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jesusdavidborja10-hub&show_icons=true&theme=radical&hide_border=true&bg_color=140C10&title_color=E8829A&icon_color=C9A96E&text_color=F9EEF3)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jesusdavidborja10-hub&layout=compact&theme=radical&hide_border=true&bg_color=140C10&title_color=E8829A&text_color=F9EEF3)
-
-</div>
 
 ---
 
